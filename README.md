@@ -1,5 +1,5 @@
 
-# 🚫 Site Blocker Chrome Extension
+# 🚫 Blud Blocker Chrome Extension
 
 **Site Blocker** is a simple and effective Chrome extension that helps users block access to unwanted websites (e.g., adult content, social media, distractions) and redirect them to a custom safe page.
 
